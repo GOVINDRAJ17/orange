@@ -1,0 +1,6 @@
+{
+_id: "mongo_project_config",
+project_id: "<value>",
+// any other config keys parsed from toml
+updated_at: ISODate(...)
+}
